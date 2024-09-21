@@ -174,3 +174,10 @@ div > .header {
   font-weight: 400;
   overflow: hidden;
 }
+
+code {
+  background-color: #4e4e4e;
+  border-radius: 3px;
+  padding: 0 3px;
+  margin-left: 5px;
+}
